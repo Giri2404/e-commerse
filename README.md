@@ -44,7 +44,7 @@ Nostra-Ecommerce/
 
 ## 📸 Demo
 
-👉 [Live Demo](https://errormakesclever.github.io/Nostra-Ecommerce-Js/index.html)
+👉 [Live Demo](https://giri2404.github.io/e-commerse/)
 
 ---
 
